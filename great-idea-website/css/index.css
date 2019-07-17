@@ -183,11 +183,7 @@ li {
   display: inline-block;
 }
 
-li:nth-child(2),
-li:nth-child(3),
-li:nth-child(4),
-li:nth-child(5),
-li:nth-child(6) {
+.margin-left-60 {
   margin-left: 60px;
 }
 
@@ -220,7 +216,7 @@ body div:first-of-type {
   margin-top: 20px;
 }
 
-div div {
+#innovation-div {
   width: 300px;
   margin-right: 60px;
   vertical-align: 120px;
